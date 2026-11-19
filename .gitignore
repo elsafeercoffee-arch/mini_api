@@ -1,14 +1,8 @@
 .env
 .venv/
 __pycache__/
-*.pyc
 *.db
 *.db-wal
 *.db-shm
-*.log
-*.bak
 .pytest_cache/
 .ruff_cache/
-.coverage
-htmlcov/
-data/*.db
